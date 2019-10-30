@@ -1,0 +1,1 @@
+export const SERVICE_URL = '5.201.185.69:8123/';
